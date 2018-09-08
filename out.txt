@@ -1,0 +1,104 @@
+Data Size: 10
+Bubble Sort duration(best)    : 0
+Bubble Sort duration(avg)     : 0
+Bubble Sort duration(worst)   : 0
+
+Insertion Sort duration(best) : 0
+Insertion Sort duration(avg)  : 0
+Insertion Sort duration(worst): 0
+
+Selection Sort duration(best) : 0
+Selection Sort duration(avg)  : 0
+Selection Sort duration(worst): 0
+
+Data Size: 50
+Bubble Sort duration(best)    : 0
+Bubble Sort duration(avg)     : 0.001
+Bubble Sort duration(worst)   : 0
+
+Insertion Sort duration(best) : 0
+Insertion Sort duration(avg)  : 0
+Insertion Sort duration(worst): 0
+
+Selection Sort duration(best) : 0
+Selection Sort duration(avg)  : 0
+Selection Sort duration(worst): 0
+
+Data Size: 100
+Bubble Sort duration(best)    : 0
+Bubble Sort duration(avg)     : 0
+Bubble Sort duration(worst)   : 0
+
+Insertion Sort duration(best) : 0
+Insertion Sort duration(avg)  : 0
+Insertion Sort duration(worst): 0
+
+Selection Sort duration(best) : 0
+Selection Sort duration(avg)  : 0
+Selection Sort duration(worst): 0
+
+Data Size: 500
+Bubble Sort duration(best)    : 0.001
+Bubble Sort duration(avg)     : 0.002
+Bubble Sort duration(worst)   : 0.002
+
+Insertion Sort duration(best) : 0
+Insertion Sort duration(avg)  : 0.001
+Insertion Sort duration(worst): 0.001
+
+Selection Sort duration(best) : 0.001
+Selection Sort duration(avg)  : 0
+Selection Sort duration(worst): 0.001
+
+Data Size: 1000
+Bubble Sort duration(best)    : 0.003
+Bubble Sort duration(avg)     : 0.007
+Bubble Sort duration(worst)   : 0.012
+
+Insertion Sort duration(best) : 0
+Insertion Sort duration(avg)  : 0.002
+Insertion Sort duration(worst): 0.004
+
+Selection Sort duration(best) : 0.003
+Selection Sort duration(avg)  : 0.003
+Selection Sort duration(worst): 0.003
+
+Data Size: 2000
+Bubble Sort duration(best)    : 0.012
+Bubble Sort duration(avg)     : 0.029
+Bubble Sort duration(worst)   : 0.038
+
+Insertion Sort duration(best) : 0
+Insertion Sort duration(avg)  : 0.008
+Insertion Sort duration(worst): 0.016
+
+Selection Sort duration(best) : 0.012
+Selection Sort duration(avg)  : 0.011
+Selection Sort duration(worst): 0.012
+
+Data Size: 5000
+Bubble Sort duration(best)    : 0.073
+Bubble Sort duration(avg)     : 0.193
+Bubble Sort duration(worst)   : 0.237
+
+Insertion Sort duration(best) : 0
+Insertion Sort duration(avg)  : 0.051
+Insertion Sort duration(worst): 0.103
+
+Selection Sort duration(best) : 0.072
+Selection Sort duration(avg)  : 0.07
+Selection Sort duration(worst): 0.075
+
+Data Size: 10000
+Bubble Sort duration(best)    : 0.296
+Bubble Sort duration(avg)     : 0.766
+Bubble Sort duration(worst)   : 0.942
+
+Insertion Sort duration(best) : 0
+Insertion Sort duration(avg)  : 0.199
+Insertion Sort duration(worst): 0.422
+
+Selection Sort duration(best) : 0.292
+Selection Sort duration(avg)  : 0.285
+Selection Sort duration(worst): 0.292
+
